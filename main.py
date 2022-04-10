@@ -2,8 +2,6 @@ nk = input()
 
 list_of_numbers = nk.split(' ')
 
-print(list_of_numbers)
-
 
 def newton_symbol(lon):
     from math import factorial
